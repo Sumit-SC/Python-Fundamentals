@@ -25,15 +25,11 @@ Project Organization
     │   ├── processed      <- The final, canonical data sets for modeling.
     │   └── raw            <- The original, immutable data dump.
     │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
+    ├── docs               <- Readme files of individual projects.
     │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
+    ├── notebooks          <- Jupyter notebook file for respective projects.
     │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
-    │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
+    ├── references         <- Data dictionaries, manuals, and all other explanatory materials or sources from interent/Case study etc.
     │
     ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
     │   └── figures        <- Generated graphics and figures to be used in reporting
