@@ -1,6 +1,12 @@
 # Python-Fundamentals
 Repo to track Python self-study progress and study materials used during DS study including basics, advanced topics and data cleaning - visualization Library.
 
+Project Navigation
+=============================
+| Project | README |
+| ------ | ------ |
+| Covid19-Vaccination (EDA) | [docs/Covid19_Vaccinations-EDA_info.md] |
+
 Boilerplate
 ==============================
 
