@@ -4,10 +4,11 @@ Repo to track Python self-study progress and study materials used during DS stud
 Project Navigation
 =============================
 
-| Project | README |
-| ------- | ------ |
-| Covid19-Vaccination (EDA) | [Covid19_Vaccinations-EDA_info.md](docs/Covid19_Vaccinations-EDA_info.md) |
-| Walmart SampleStore (EDA) | [Walmart_Dataset_Analysis_info.md](docs/Walmart_Dataset_Analysis_info.md) |
+| Project | README | Notebook |
+| ------- | ------ | -------- |
+| Spotify Dataset Analysis | [Spotify_Dataset_Analysis_info.md](docs/Spotify_Dataset_Analysis_info.md) | [Spotify_Analysis](notebooks/Exploring%20Spotify_dataset%20using%20Pandas%20&%20Matplotlib.ipynb) |
+| Covid19-Vaccination (EDA) | [Covid19_Vaccinations-EDA_info.md](docs/Covid19_Vaccinations-EDA_info.md) | [Covid19_Vaccinations-EDA](notebooks/Covid_India_Vaccine.ipynb) |
+| Walmart SampleStore (EDA) | [Walmart_Dataset_Analysis_info.md](docs/Walmart_Dataset_Analysis_info.md) | [Walmart_Analysis-EDA](notebooks/Data%20Analysis%20on%20Walmart%20dataset%20using%20Seaborn.ipynb) |
 
 ------------
 Boilerplate
