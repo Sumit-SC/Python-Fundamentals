@@ -67,14 +67,14 @@ The data used in this project is sourced from reputable sources, including gover
 
     ├── notebooks/                              <- # Jupyter notebooks for analysis
     ├── data/
-    │   └──processed/                           <- # Data used in the analysis
+    │   └── processed/                           <- # Data used in the analysis
     ├── src/
-    │   └──visualization/                       <- # Visualizations generated during the analysis
+    │   └── visualization/                       <- # Visualizations generated during the analysis
     ├── reports/                                <- # Report made on the EDA
     ├── references/
-    │   └──Covid19_Vaccination_Sources.md       <- # Sources and case study on vaccination dataset and reports made by government bodies and individuals.
+    │   └── Covid19_Vaccination_Sources.md       <- # Sources and case study on vaccination dataset and reports made by government bodies and individuals.
     └── docs
-        └──Covid19_Vaccinations-EDA_info.md     <- # Project README file
+        └── Covid19_Vaccinations-EDA_info.md     <- # Project README file
     
 
 ---------
