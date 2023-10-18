@@ -3,10 +3,12 @@ Repo to track Python self-study progress and study materials used during DS stud
 
 Project Navigation
 =============================
+
 | Project | README |
-| ------ | ------ |
+| ------- | ------ |
 | Covid19-Vaccination (EDA) | [docs/Covid19_Vaccinations-EDA_info.md] |
 
+------------
 Boilerplate
 ==============================
 
