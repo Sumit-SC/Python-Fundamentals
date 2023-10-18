@@ -7,6 +7,7 @@ Project Navigation
 | Project | README |
 | ------- | ------ |
 | Covid19-Vaccination (EDA) | [Covid19_Vaccinations-EDA_info.md](docs/Covid19_Vaccinations-EDA_info.md) |
+| Walmart SampleStore (EDA) | [Walmart_Dataset_Analysis_info.md](docs/Walmart_Dataset_Analysis_info.md) |
 
 ------------
 Boilerplate
